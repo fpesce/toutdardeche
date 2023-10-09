@@ -1,3 +1,4 @@
-baseURL = 'https://fpesce.github.io/toutdardeche'
-languageCode = 'en-us'
-title = 'Le Tout d\'Ardèche'
+baseURL = "https://fpesce.github.io/toutdardeche"
+languageCode = "en-us"
+title = "Le Tout d'Ardèche"
+theme = "ananke"
