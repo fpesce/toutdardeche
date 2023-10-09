@@ -1,7 +1,7 @@
 ---
 title: "Introducing hobby"
 date: 2023-10-09T11:33:59+02:00
-draft: true
+draft: false
 ---
 
 # Introducing hobby: A Tale of French Communes, Cycling, and Low-Carbon Footprints
