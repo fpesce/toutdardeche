@@ -24,10 +24,11 @@ Ardèche, located in the Auvergne-Rhône-Alpes region, offers a diverse landscap
 
 - **Total Area**: 5,529 km²
 - **Population Density**: 59.6 inhabitants/km²
-- **Largest City**: Annonay with 16,998 inhabitants
-- **Smallest City**: Loubaresse with 30 inhabitants
-- **Average Distance Between Adjacent Towns**: Approximately X km 
-- **Highest Altitude**: Z meters above sea level
+- **Largest City**: Annonay with 16,359 inhabitants (in 2020)
+- **Smallest City**: Lafarre with 40 inhabitants (in 2020)
+- **Average Distance Between Adjacent Towns**: Approximately 4.73 km (from my cleaned-up data) 
+- **Highest Altitude**: 1,754 meters above sea level, Mont Mézenc in the town Borée.
+
 
 ### Geography
 
