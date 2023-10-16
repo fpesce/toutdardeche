@@ -2,3 +2,37 @@ baseURL = "https://fpesce.github.io/toutdardeche"
 languageCode = "en-us"
 title = "Le Tout d'Ardèche"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = "G-45EQ2LX5EJ"
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Le Tout d'Ardèche"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Le Tout d'Ardèche"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Francois Pesce"
+  favicon = ""
+  site_logo = ""
+  background_color_class = "bg-light-blue"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://infosec.exchange/@jokfp"
+rel = "Infosec Exchange"

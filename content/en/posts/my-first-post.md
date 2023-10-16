@@ -1,6 +1,7 @@
 ---
 title: "Introducing hobby"
 date: 2023-10-09T11:33:59+02:00
+featured_image: '/images/bandeau.png'
 draft: false
 ---
 
